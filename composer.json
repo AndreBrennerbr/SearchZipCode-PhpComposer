@@ -1,0 +1,24 @@
+{
+    "name": "searchbrenner/cep",
+    "description": "Busca de cep",
+    "type": "library",
+    "license": "MIT",
+    
+    "autoload": {
+        
+        "psr-4": {
+            "Searchbrenner\\Cep\\": "src/"
+        }
+    
+    },
+    "authors": [
+        {
+            "name": "AndreBrennerbr",
+            "email": "andre.luizrb@hotmail.com"
+        }
+    ],
+    "require": {
+        "php":">=7.2.0"
+    }
+  
+}
