@@ -6,6 +6,6 @@ use Searchbrenner\Cep\Search;
 
 $Search = new Search;
 
-$result = $Search->getAddressFromZipCode('57035580');
+$result = $Search->getAddressFromZipCode('');
 
 var_dump($result);
